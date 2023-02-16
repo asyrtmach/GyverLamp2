@@ -39,7 +39,7 @@
 
 // ------------ Лента -------------
 #define STRIP_PIN 2         // пин ленты GPIO2 (D4 на wemos/node), GPIO5 (D1) для module
-#define MAX_LEDS 300        // макс. светодиодов
+#define MAX_LEDS 512        // макс. светодиодов
 #define STRIP_CHIP WS2812   // чип ленты
 #define STRIP_COLOR GRB     // порядок цветов в ленте
 #define STRIP_VOLT 5        // напряжение ленты, V
